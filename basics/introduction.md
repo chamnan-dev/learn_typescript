@@ -13,4 +13,4 @@ Let's start with the most basic Program "Hello World". In Typescrit just like Ja
 
 --------------------------------------------------------------------------------------
 My Note: 
--- ECMAScript (/ˈɛkməskrɪpt/; ES) is a standard for scripting languages, including JavaScript, JScript, and ActionScript. It is best known as a JavaScript standard intended to ensure the interoperability of web pages across different web browsers.
+- ECMAScript (/ˈɛkməskrɪpt/; ES) is a standard for scripting languages, including JavaScript, JScript, and ActionScript. It is best known as a JavaScript standard intended to ensure the interoperability of web pages across different web browsers.
