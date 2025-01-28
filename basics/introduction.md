@@ -28,6 +28,19 @@ This print ``` Hello Chamnan``` , Because the ``` name ``` variable was formatte
 
 
 
+# Exercise 1
+
+You are give a program that logs "Goodbye world" to the console. Modify the program so that it logs "Hello world" instead.
+
+Code below: 
+```js
+let getMessage: string = "Goodbye world"
+
+console.log(getMessage); // please change Goodbye  to Hello it's output : "Hello world"
+
+```
+
+
 
 
 
