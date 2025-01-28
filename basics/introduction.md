@@ -7,6 +7,25 @@ This can be invaluable for larger projects where catching bugs early can save a 
 
 Let's start with the most basic Program "Hello World". In Typescrit just like Javascript, this can be done with simple  ``` console.log() ``` statment.
 
+```js
+ const message: string = "Hell world";
+ console.log(message);
+
+```
+
+The ```: string ``` is a type annotation that tells Typescript that the ``` message ``` variable can only hold a string .This is one of the mony features Typescript adds to JavaScript.
+
+Typescript also supports formatting strings using backtick operator. Here is an example:
+
+```js 
+    const name =  "Chamnan"
+    const message: string = `Hello ${name}`
+
+    console.log(message);
+```
+
+This print ``` Hello Chamnan``` , Because the ``` name ``` variable was formatted into the string right after the world ``` Hello ```. 
+
 
 
 
