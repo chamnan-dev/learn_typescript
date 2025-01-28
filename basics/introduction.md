@@ -5,7 +5,9 @@ Typescript is a strict syntactical superset of javascript, adding optional stati
 The major advantage of using TypeScript is static typing feature, which help catch errors early during the developement phase. 
 This can be invaluable for larger projects where catching bugs early can save a significant (សំខាន់) amount of time and money.
 
-Let's start with the most basic Program "Hello World". In Typescrit just like Javascript, this can be done with simple  ```javascript console.log() ``` statment.
+Let's start with the most basic Program "Hello World". In Typescrit just like Javascript, this can be done with simple  ``` console.log() ``` statment.
+
+
 
 
 
