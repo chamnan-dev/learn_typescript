@@ -312,7 +312,7 @@ Symbols
 
 Flags
 
-| :KH: `:KH:` | :two: `:two:` | :three: `:three:` |
+| :cambodia: `:cambodia:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
