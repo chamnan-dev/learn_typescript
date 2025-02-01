@@ -86,7 +86,7 @@ Finally , remove the last age from the array.
 let ages: number[] = [25, 30, 35];
 
 // after add new age to in array this.
-ages.unshift("20"); // output [20, 25, 30, 35] 
+ages.unshift(20); // output [20, 25, 30, 35] 
 console.log(ages);
 
 // remove the last element of above array 
