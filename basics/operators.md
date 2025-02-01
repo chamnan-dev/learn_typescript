@@ -62,14 +62,14 @@ Operators are vital tools in TypeScript that enable various operators. They offe
 
 Comparision operators allow you to compare two values.
 
-* <h1>Equal to</h1>(`==`) : Checks if two values are equal.
-* <h1>Not Equal to</h1> (`!=`): Checks if two values are not equal.
-* <h1>Strictly equal to </h1> (`===`): Checks if two values are equal in value and type.
-* <h1>Strictly not equal to</h1> (`!==`): Checks if two values are not equal in value and type.
-* <h1>Greater than</h1> (`>`): Checks if the value on the left is greater than the value on the right.
-* <h1>Less than</h1>(`<`): Checks if the value on the left is less than the value on the right.
-* <h1>Greater than or equal to</h1> (`>=`): Checks if the value one the left is greater than or equal to the value on the right.
-* <h1>Less than or equal to</h1> (`<=`): Checks if the value one the left is less than or equal to the value on the right.
+* <span>Equal to</span>(`==`) : Checks if two values are equal.
+* <span>Not Equal to</span> (`!=`): Checks if two values are not equal.
+* <span>Strictly equal to </span> (`===`): Checks if two values are equal in value and type.
+* <span>Strictly not equal to</span> (`!==`): Checks if two values are not equal in value and type.
+* <span>Greater than</span> (`>`): Checks if the value on the left is greater than the value on the right.
+* <span>Less than</span>(`<`): Checks if the value on the left is less than the value on the right.
+* <span>Greater than or equal to</span> (`>=`): Checks if the value one the left is greater than or equal to the value on the right.
+* <span>Less than or equal to</span> (`<=`): Checks if the value one the left is less than or equal to the value on the right.
 
 For example, to check if a number is between 3 and 7 , we can write: 
 
